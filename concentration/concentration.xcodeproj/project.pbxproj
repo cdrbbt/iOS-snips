@@ -97,7 +97,7 @@
 		6AB5734A20618DC6001F077D /* concentration */ = {
 			isa = PBXGroup;
 			children = (
-				6AB5737920618E00001F077D /* support */,
+				6AB5737920618E00001F077D /* Supporting files */,
 				6AB5734D20618DC6001F077D /* ViewController.swift */,
 				6AB5734F20618DC6001F077D /* Main.storyboard */,
 				6AB5735720618DC6001F077D /* Info.plist */,
@@ -123,14 +123,14 @@
 			path = concentrationUITests;
 			sourceTree = "<group>";
 		};
-		6AB5737920618E00001F077D /* support */ = {
+		6AB5737920618E00001F077D /* Supporting files */ = {
 			isa = PBXGroup;
 			children = (
 				6AB5735220618DC6001F077D /* Assets.xcassets */,
 				6AB5735420618DC6001F077D /* LaunchScreen.storyboard */,
 				6AB5734B20618DC6001F077D /* AppDelegate.swift */,
 			);
-			path = support;
+			path = "Supporting files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
